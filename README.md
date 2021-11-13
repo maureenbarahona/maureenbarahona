@@ -3,7 +3,7 @@
 
 ## I'm a SRE/DevOps Engineer / Full-Stack Web Developer /consultant | Collaborator in @DevTeam504 /Organizer in Cloud Native Honduras!!
 
-- ## More than 20 years of experience in different aspects of the software industry. Adaptable, resourceful and results-oriented professional. Strengths include problem solving, data analysis and process improvement. Capable of acquiring new knowledge software and technical skills quickly.
+- ### More than 20 years of experience in different aspects of the software industry. Adaptable, resourceful and results-oriented professional. Strengths include problem solving, data analysis and process improvement. Capable of acquiring new knowledge software and technical skills quickly.
 
 🔭 I’m currently working on ... Linux and others tools OpenSource
 - 🌱 I’m currently learning ... everything 
@@ -14,11 +14,6 @@
 - 🎸 Would love: To know how to play guitar and piano
 - ✍ I recently began blogging @ [medium](https://maureenbarahona.medium.com/)
 - 📝[Resume](https://www.canva.com/design/DAEILHipScU/4yQBJYiTz8UHlCe0NK9ABw/watch?utm_content=DAEILHipScU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-- ## ✉️ **And feel free to consult me through my email:**
-  <a href="mailto: maureenbarahona@gmail.com">**maureenbarahona@gmail.com**</a>
-
-
 ### Connect with me:  
 
 <a href="https://www.linkedin.com/in/maureen-barahona/">
