@@ -5,30 +5,7 @@
 
 - ## More than 20 years of experience in different aspects of the software industry. Adaptable, resourceful and results-oriented professional. Strengths include problem solving, data analysis and process improvement. Capable of acquiring new knowledge software and technical skills quickly.
 
-  - ### **Honduras** is in the center of the world, more specifically in **Central America** 👉 🌎. 
-  - ### You may have heard of the Bay Islands, you will find that Roatan is considered to be the second largest reef in the world 🤿.
-  - ### Another 💎 jewel is Copan Ruins, which is an archaeological site of the ancient Mayan civilization.
-- ## Now coming back to me, I tell you that:
-  - ## I like 🏃‍♀️ running and 🎧 music.
-  - ## I am passionate about ❤️ **open source** and 📖 **learning / teaching**.
-  - ## And therefore everything that has to do with 💻 technology.
-
-- ## Some of the projects I work on every day, using my mantra, what I recommend is because I use it:
-- ## ⚡ **These are my 🤘🏼 boy scout 🎖 medals humbly assigned by me 😊:**
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="80"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" /> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="80"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="80" /> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="80" /> </a>
-
-- ## ✉️ **And feel free to consult me through my email:**
-  <a href="mailto: maureenbarahona@gmail.com">**maureenbarahona@gmail.com**</a>
-<!--
-**nelbren/nelbren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Linux and others tools OpenSource
+🔭 I’m currently working on ... Linux and others tools OpenSource
 - 🌱 I’m currently learning ... everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with learning how to use OpenSource forums
@@ -37,7 +14,10 @@ Here are some ideas to get you started:
 - 🎸 Would love: To know how to play guitar and piano
 - ✍ I recently began blogging @ [medium](https://maureenbarahona.medium.com/)
 - 📝[Resume](https://www.canva.com/design/DAEILHipScU/4yQBJYiTz8UHlCe0NK9ABw/watch?utm_content=DAEILHipScU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
--->
+
+- ## ✉️ **And feel free to consult me through my email:**
+  <a href="mailto: maureenbarahona@gmail.com">**maureenbarahona@gmail.com**</a>
+
 
 ### Connect with me:  
 
